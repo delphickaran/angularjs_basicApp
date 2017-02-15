@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "street":"lila ram market",
+        "city":"new delhi",
+        "state":"delhi"
+    }
+    ,
+    
+    {
+        "id":1,
+        "street":"lajpat nagar",
+        "city":"new delhi",
+        "state":"delhi"
+    },
+    
+    {
+        "id":1,
+        "street":"delhi haat",
+        "city":"new delhi",
+        "state":"delhi"
+    }
+]

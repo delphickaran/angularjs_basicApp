@@ -1,0 +1,23 @@
+[
+    {
+        "id" :1,
+        "name" : "Hardware repair",
+        "description" : "hardware repair blaa blaa blaa blaa . write description here",
+        "image" : "computer.png"
+    }
+    ,
+    {
+        "id" :1,
+        "name" : "UI lookup",
+        "description" : "UI lookup blaa blaa blaa blaa . write description here" ,
+         "image" : "ui.png"
+    }
+    ,
+    {
+        "id" :1,
+        "name" : "software repair",
+        "description" : "Software repair blaa blaa blaa blaa . write description here" ,
+         "image" : "software-icon-30.png"
+    }
+    
+]
